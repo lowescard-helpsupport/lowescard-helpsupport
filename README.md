@@ -1,4 +1,4 @@
-## Hi there 👋
+## lowes.syf.com/activate
 
 <!--
 **lowescard-helpsupport/lowescard-helpsupport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
